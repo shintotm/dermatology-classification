@@ -1,2 +1,2 @@
-# dermatology-classification
-classification of skin cancer with deep neural networks
+# Deramatology Classification
+Classification of skin cancer with deep neural networks
